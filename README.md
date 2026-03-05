@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Lucas&nbsp;Maluf-red.svg)](https://www.linkedin.com/in/lucas-maluf/)
+[![author](https://img.shields.io/badge/Author-Lucas&nbsp;Maluf-red.svg)](https://www.linkedin.com/in/lucas-maluf-997629209/)
 [![](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 
 # Supermarket customers segmentation
